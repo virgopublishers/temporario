@@ -1,0 +1,111 @@
+[{
+    "name": "The Fool",
+    "id": "fool",
+    "img": "images/fool.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the fool tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Magician",
+    "id": "magician",
+    "img": "images/magician.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the magician tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The High Priestess",
+    "id": "high-priestess",
+    "img": "images/high-priestess.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the high priestess tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Empress",
+    "id": "empress",
+    "img": "images/empress.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the empress tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Emperor",
+    "id": "emperor",
+    "img": "images/emperor.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the emperor tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Hierophant",
+    "id": "hierophant",
+    "img": "images/hierophant.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the hierophant tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Lovers",
+    "id": "lovers",
+    "img": "images/lovers.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the lovers tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Chariot",
+    "id": "chariot",
+    "img": "images/chariot.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the chariot tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "Strength",
+    "id": "strength",
+    "img": "images/strength.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'strength tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Hermit",
+    "id": "hermit",
+    "img": "images/hermit.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the hermit tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "Wheel of Fortune",
+    "id": "wheeloffortune",
+    "img": "images/wheeloffortune.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'wheel of fortune tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "Justice",
+    "id": "justice",
+    "img": "images/justice.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'justice tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Hanged Man",
+    "id": "hangedman",
+    "img": "images/hangedman.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the hanged man tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "Death",
+    "id": "death",
+    "img": "images/death.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'death tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "Temperance",
+    "id": "temperance",
+    "img": "images/temperance.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'temperance tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Devil",
+    "id": "devil",
+    "img": "images/devil.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the devil tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Tower",
+    "id": "tower",
+    "img": "images/tower.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the tower tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Star",
+    "id": "star",
+    "img": "images/star.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the star tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Moon",
+    "id": "moon",
+    "img": "images/moon.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the moon tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The Sun",
+    "id": "sun",
+    "img": "images/sun.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the sun tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "Judgement",
+    "id": "judgement",
+    "img": "images/judgement.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'judgement tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}, {
+    "name": "The World",
+    "id": "world",
+    "img": "images/world.jpg",
+    "meaning": "<p>To know the meaning of this card, please go to google.com and search for 'the world tarot card' without quotes. On the first page, you will find many great sources explaining everything about this card and what it represents in different situations.</p>"
+}]
